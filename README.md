@@ -50,8 +50,8 @@ sh test.sh
 
 ### Evaluate Performance
 <p align='center'>
-  <img src="figures/im1.png" width="500" />
-  <img src="figures/im2.png" width="500" /> 
+  <img src="figures/im1.png" width="800" />
+  <img src="figures/im2.png" width="800" /> 
 </p>
 
 
