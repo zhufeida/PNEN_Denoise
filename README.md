@@ -7,10 +7,13 @@
 We have provided pre-trained RDN model [1] and RDN-PNB model for image denoising tasks with noise level 50. The test dataset Set12, BSD68 and Urban100 are also included in this demo.
 
 - RDN architecture [1]
+
 <p align='center'>
   <img src="figures/RDN_origin.png" width="500" />
 </p>
+
 - Our proposed pyramid non-local blocks(PNB) can be easily inserted into RDN to enhance the ability to capture long-range contextual information. 
+
 <p align='center'>
   <img src="figures/RDN_PNB.png" width="500" /> 
 </p>
